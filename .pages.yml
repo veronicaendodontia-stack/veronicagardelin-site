@@ -1,0 +1,40 @@
+
+media:
+  input: diario/imagens
+  output: /diario/imagens
+  rename: safe
+
+content:
+  - name: publicacoes
+    label: Diário de Consultório
+    type: collection
+    path: diario/publicacoes
+    format: yaml
+    fields:
+      - name: categoria
+        label: Categoria
+        type: select
+        required: true
+        options:
+          values:
+            - name: casos
+              label: Casos clínicos
+            - name: bastidores
+              label: Bastidores
+            - name: reflexoes
+              label: Reflexões
+
+      - name: fotografia
+        label: Fotografia
+        type: image
+        required: false
+
+      - name: legenda
+        label: Legenda
+        type: text
+        required: true
+
+      - name: publicado
+        label: Publicado
+        type: boolean
+        default: false
