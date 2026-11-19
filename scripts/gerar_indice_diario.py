@@ -8,7 +8,7 @@ root = Path(__file__).resolve().parent.parent
 folder = root / "diario" / "publicacoes"
 out = root / "diario" / "publicacoes.json"
 items = []
-for file in sorted([*folder.glob("*.yaml"), *folder.glob("*.yml")]) if folder.exists() else []:
+for file in sorted([*folder.glob("*.yaml"), *folder.glob("*.yml"), *folder.glob("*.md")]) if folder.exists() else []:
     data = yaml.safe_load(file.read_text(encoding="utf-8"))
     if not isinstance(data, dict) or data.get("publicado") is not True:
         continue
