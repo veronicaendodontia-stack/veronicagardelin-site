@@ -5,6 +5,7 @@ on:
     paths:
       - 'diario/publicacoes/*.yaml'
       - 'diario/publicacoes/*.yml'
+      - 'diario/publicacoes/*.md'
       - 'scripts/gerar_indice_diario.py'
       - '.github/workflows/diario-publicacoes.yml'
   workflow_dispatch:
