@@ -1,4 +1,4 @@
-categoria: reflexoes
-fotografia: /diario/imagens/img0081.jpeg
-legenda: "Janelas para o mundo. "
+categoria: casos
+fotografia: /diario/imagens/img6060.jpeg
+legenda: "Endodontias finalizadas. "
 publicado: true
