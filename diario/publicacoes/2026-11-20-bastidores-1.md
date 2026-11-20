@@ -1,4 +1,4 @@
-categoria: bastidores
-fotografia: /diario/imagens/img0086.jpeg
-legenda: After hours:)
+categoria: reflexoes
+fotografia: /diario/imagens/img0081.jpeg
+legenda: "Janelas para o mundo. "
 publicado: true
