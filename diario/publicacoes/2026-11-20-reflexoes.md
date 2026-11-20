@@ -1,0 +1,4 @@
+categoria: reflexoes
+fotografia: /diario/imagens/dd93ff0e-cb3b-4bef-8c35-38b30bab7401.jpeg
+legenda: 🫶🏼🫶🏼
+publicado: true
