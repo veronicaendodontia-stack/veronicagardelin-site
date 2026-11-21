@@ -25,7 +25,7 @@
   },
   {
     "categoria": "reflexoes",
-    "fotografia": "/diario/imagens/img6237.jpeg",
+    "fotografia": "/diario/imagens/img6577.jpeg",
     "legenda": "\"Não é sobre cortar o doce para sempre, mas sobre saber o momento certo de escovar os dentes.\" 🪥",
     "publicado": true
   },
@@ -36,9 +36,15 @@
     "publicado": true
   },
   {
-    "categoria": "reflexoes",
+    "categoria": "casos",
     "fotografia": "/diario/imagens/instagram-1.png",
     "legenda": "Endodontics 🦷🥰",
+    "publicado": true
+  },
+  {
+    "categoria": "bastidores",
+    "fotografia": "/diario/imagens/img6237.jpeg",
+    "legenda": "Rory Gallagher na trilha sonora dos bastidores. 🎸",
     "publicado": true
   }
 ]
