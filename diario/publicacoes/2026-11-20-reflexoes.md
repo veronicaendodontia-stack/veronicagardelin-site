@@ -1,4 +1,4 @@
-categoria: reflexoes
+categoria: casos
 fotografia: /diario/imagens/instagram-1.png
-legenda: Endodontics 🦷🥰
+legenda: "Endodontics 🦷🥰"
 publicado: true
